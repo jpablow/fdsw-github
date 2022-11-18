@@ -37,3 +37,9 @@ body {
   }
 
 }
+
+.font-open-sans {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
